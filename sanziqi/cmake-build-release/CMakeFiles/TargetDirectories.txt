@@ -1,0 +1,3 @@
+D:/sanziqi/cmake-build-release/CMakeFiles/sanziqi.dir
+D:/sanziqi/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/sanziqi/cmake-build-release/CMakeFiles/rebuild_cache.dir
